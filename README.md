@@ -1,6 +1,6 @@
 
 
-# USB OpenClaw (便携Git工具)
+# USB OpenClaw (便携openclaw工具)
 
 ## 项目简介
 
